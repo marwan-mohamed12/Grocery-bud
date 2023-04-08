@@ -1,7 +1,7 @@
 # Grocery-bud
 
 - This is a React application that allows you to manage your grocery list by adding, editing, and deleting items. You can also clear the entire list at once.
-- <a href="https://superheroes-and-villains-information.netlify.app/">Live Demo</a>
+- <a href="https://react-grocerybud-js.netlify.app/">Live Demo</a>
 
 ## Features
 
